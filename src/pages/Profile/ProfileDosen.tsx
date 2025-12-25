@@ -21,7 +21,6 @@ import {
     Calendar,
     Bell,
     ChevronDown,
-    BookOpen,
     LogOut,
     Settings,
     User,

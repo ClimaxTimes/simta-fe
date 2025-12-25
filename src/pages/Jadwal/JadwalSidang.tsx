@@ -33,7 +33,6 @@ import {
     FileText,
     Bell,
     ChevronDown,
-    BookOpen,
     LogOut,
     Settings,
     User,

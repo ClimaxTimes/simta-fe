@@ -24,7 +24,6 @@ import {
     FileText,
     TrendingUp,
     Clock,
-    Shield,
     Activity,
 } from 'lucide-react'
 import { useAppDispatch, useAppSelector } from '@/store/hooks'

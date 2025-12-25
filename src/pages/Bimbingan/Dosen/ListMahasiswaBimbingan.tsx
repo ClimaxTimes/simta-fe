@@ -26,7 +26,6 @@ import {
     Search,
     Bell,
     ChevronDown,
-    BookOpen,
     LogOut,
     Settings,
     User,

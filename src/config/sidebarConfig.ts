@@ -9,7 +9,6 @@ import {
     LayoutDashboard,
     Users,
     Calendar,
-    FileText,
     FileEdit,
     Settings,
     type LucideIcon,

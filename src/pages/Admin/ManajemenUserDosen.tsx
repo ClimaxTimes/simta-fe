@@ -40,7 +40,6 @@ import {
     Settings,
     User,
     FileText,
-    Shield,
     ArrowLeft,
     Mail,
     Phone,

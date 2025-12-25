@@ -32,7 +32,6 @@ import {
     Settings,
     User,
     FileText,
-    Shield,
     ArrowLeft,
     GraduationCap,
     Mail,
