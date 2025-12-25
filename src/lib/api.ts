@@ -9,7 +9,7 @@
 import axios, { AxiosError, type InternalAxiosRequestConfig } from 'axios';
 
 // API Base URL
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://lymun-simta.hf.space';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://lymun-simta.hf.space/api';
 
 // Create axios instance
 const api = axios.create({
